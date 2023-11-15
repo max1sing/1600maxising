@@ -1,4 +1,5 @@
-# this is my second other file
+## This is my information file!
+## use these links to get to other files
 [Go to readme file](README.md)  
 [Go to the other file](otherfile.md)
 
