@@ -2,4 +2,4 @@
 [Go to readme file](README.md)  
 [Go to the other file](otherfile.md)
 
-![mizzou](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mizzou.com%2Fhomecoming&psig=AOvVaw1paySPnN1NSJ6drJBS-fDK&ust=1700152511748000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjr9eW3xoIDFQAAAAAdAAAAABAE)
+![mizzou](https://www.mizzou.com/s/1002/images/gid1001/editor/00-redesign-00/homecoming/youtube%20banner.png)
