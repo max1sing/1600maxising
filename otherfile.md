@@ -1,3 +1,3 @@
-##this is the other file
+#this is the other file
 
-[other file](README.md)
+[README file](README.md)
