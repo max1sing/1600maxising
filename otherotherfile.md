@@ -2,4 +2,6 @@
 [Go to readme file](README.md)  
 [Go to the other file](otherfile.md)
 
+# **I go to the University of Missouri**
+
 ![mizzou](https://logowik.com/content/uploads/images/mizzou-missouri-tigers5338.jpg)
