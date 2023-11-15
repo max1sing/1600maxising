@@ -9,3 +9,5 @@
 * Listen to music
 * Ride my bike
 * Watch sports
+
+![bike](https://t3.ftcdn.net/jpg/02/34/95/64/360_F_234956425_JFdJ1zSitfgwvJx5TD9xbXlOBOTgeqKn.jpg)
