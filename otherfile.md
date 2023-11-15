@@ -1,3 +1,4 @@
 # this is the other file
 
-[README file](README.md)
+[Go to readme file](README.md)
+[Go to information file](infofile.md)
